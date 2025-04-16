@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import StudentForm from "./components/StudentForm";
 import StudentList from "./components/StudentList";
-import "./styles.css";
+import "./App.css";
 import logo from "./assets/img.png";
 
 const App = () => {
